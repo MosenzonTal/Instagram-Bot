@@ -27,8 +27,10 @@ Tooling that automates your social media interactions to “farm” Likes, Comme
 🔵 Message multiple users <br>
 
 ## Clone project
+
 First you need to fork and then copy the url from clone option
 Run in gitbash or terminal :
+
 `$ git clone [url]`
 
 ## Prerequisites
