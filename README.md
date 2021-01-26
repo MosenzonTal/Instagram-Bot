@@ -27,7 +27,7 @@ An Instagram bot developed using the Selenium Framework
 🔵 Message multiple users <br>
 
 ## Package installation for Windows users
-python -m pip install -r .\requirements.txt
+`python -m pip install -r .\requirements.txt`
 
 ## Usage
 🔹in the command Line run:
