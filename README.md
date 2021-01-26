@@ -39,7 +39,7 @@ Run in gitbash or terminal :
 🔹 Python <br>
 🔹 Selenium <br>
 🔹 Chromedriver <br>
-🔹 Google Chrome (English version) <br>
+🔹 Google Chrome (English version) https://sites.google.com/a/chromium.org/chromedriver/downloads <br>
 
 ## Package installation for Windows users
 
