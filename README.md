@@ -17,7 +17,7 @@
 Tooling that automates your social media interactions to “farm” Likes, Comments, and Followers on Instagram Implemented in **Python** using the **Selenium module**.
 
 ## Introduction
-An Instagram bot developed using the Selenium Framework
+**An Instagram bot developed using the Selenium Framework**
 
 ## Features
 🔵 Login <br>
@@ -27,7 +27,7 @@ An Instagram bot developed using the Selenium Framework
 🔵 Message multiple users <br>
 
 ## Prerequisites
-To be able to run this little bot, you’ll need to have:
+**To be able to run this little bot, you’ll need to have:**
 
 🔹 Python <br>
 🔹 Selenium <br>
@@ -36,7 +36,7 @@ To be able to run this little bot, you’ll need to have:
 
 ## Package installation for Windows users
 
-To install all needed requirements run the following command in the project directory: <br>
+**To install all needed requirements run the following command in the project directory:** <br>
 
 `python -m pip install -r .\requirements.txt`
 
@@ -46,7 +46,7 @@ To install all needed requirements run the following command in the project dire
 
 ## Usage
 
-🔹after editing the script, in the command Line run:
+🔹**after editing the script, in the command Line run:**
 
 `$ python bot.py
 `
