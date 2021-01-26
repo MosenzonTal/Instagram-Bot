@@ -89,27 +89,7 @@ class InstagramBot:
             self.driver.find_element_by_xpath("//textarea[contains(@placeholder,'Message...')]").send_keys(message)
             self.driver.find_elements_by_xpath("//button[contains(text(), 'Send')]")[0].click()
 
-    # def explore(self):
-    #     myElem = WebDriverWait(self.driver, 5).until(EC.presence_of_element_located((By.XPATH, '//*[@id="react-root'
-    #                                                                                            '"]/section/nav/div['
-    #                                                                                            '2]/div/div/div['
-    #                                                                                            '3]/div/div[3]/a')))
-    #     myElem.click()
-
-    # def download_user_images(self, user):
-    #     self.nav_user(user)
-    #     img_srcs = []
-    #     finished = False
-    #     while not finished:
-    #         finished = self.infinite_scroll()  # scroll down
-    #         img_srcs.extend([img.get_attribute('src') for img in self.driver.find_elements_by_class_name('FFVAD')])
-    #     img_srcs = list(set(img_srcs))  # clean up duplicates
-    #     for idx, src in enumerate(img_srcs):
-    #         self.download_image(src, idx, user)
-
-    # def like_all_user_pictures(self, user):
-    #     self.nav_user(user)
-
+    
     def messege_profile(self):
         users = open(r"D:\Python\InstagramBot\users.txt", "r")
         for user in users:
@@ -130,22 +110,11 @@ class InstagramBot:
             self.driver.execute_script("arguments[0].click();", btn)
             time.sleep(2)
 
-    def followersListToText(self, user):
-        self.nav_user(user)
-        self.driver.find_element_by_partial_link_text("following").click()
-        allfoll = int(self.driver.find_element_by_xpath("//li[2]/a/span").text)
-        print(allfoll)
-        # text_file = open("followers.txt", "w+")
-        # users =
-        # for user in users:
-        # text_file.write()
-        # text_file.close()
-
+   
 
 if __name__ == '__main__':
-    ig_bot = InstagramBot('matangalilove', 'shalvata2019')
-    # ig_bot.message('userName', 'hey Bitch!')
+    ig_bot = InstagramBot('your_username', 'your_password')
+    # ig_bot.message('userName', 'hey, Follow Me!')
     # ig_bot.messege_profile()
     # ig_bot.follow_all('leomessi')
-    # ig_bot.followersListToText('matangalilove')
-    ig_bot.follow_list_of_users('leomessi')
+    # ig_bot.follow_list_of_users('leomessi')
