@@ -44,6 +44,15 @@ Tooling that automates your social media interactions to “farm” Likes, Comme
 🔹 Open bot.py with any TextEditor. <br>
 🔹 Change all needed values such as username and password.
 
+**in main:**
+
+```java
+    ig_bot = InstagramBot('your_username', 'your_password')
+
+```	
+
+this line designed to authenticate you on Instagram. Basically change your_username and your_password to your Instagram credentials.
+
 ## Usage
 
 🔹**after editing the script, in the command Line run:**
