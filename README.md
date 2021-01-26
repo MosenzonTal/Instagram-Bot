@@ -58,7 +58,7 @@ Run in gitbash or terminal :
 
 ```	
 
-this line designed to authenticate you on Instagram. Basically change your_username and your_password to your Instagram credentials.
+This line designed to authenticate you on Instagram. Basically change your_username and your_password to your Instagram credentials.
 
 ## Usage
 
