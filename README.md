@@ -29,10 +29,10 @@ An Instagram bot developed using the Selenium Framework
 ## Prerequisites
 To be able to run this little bot, you’ll need to have:
 
-🔹 Python
-🔹 Selenium
-🔹 Chromedriver
-🔹 Google Chrome (English version)
+🔹 Python <br>
+🔹 Selenium <br>
+🔹 Chromedriver <br>
+🔹 Google Chrome (English version) <br>
 
 ## Package installation for Windows users
 
