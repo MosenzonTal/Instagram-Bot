@@ -17,3 +17,10 @@ Tooling that automates your social media interactions to “farm” Likes, Comme
 
 ## Introduction
 An Instagram bot developed using the Selenium Framework
+
+## Features
+🔵 Login
+🔵 Follow user
+🔵 UnFollow user
+🔵 Message single user
+🔵 Message multiple users
