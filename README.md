@@ -3,7 +3,7 @@
 <p>
   <p align="left">
   <img src="https://camo.githubusercontent.com/e92213aaadf9a09a1de59645bdf98d401f51b0f7f86304fc2c9d801d1ff206d5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c616e67756167652d507974686f6e2d3031423046302e737667" width="100" title="hover text">
-    <img src="https://camo.githubusercontent.com/33453ad2ee8d9398c6452313fc0d49f2f46749d704020e656ea01e59a280b997/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6275696c74253230776974682d53656c656e69756d2d79656c6c6f772e737667" width="100" title="hover text">
+    <img src="https://camo.githubusercontent.com/33453ad2ee8d9398c6452313fc0d49f2f46749d704020e656ea01e59a280b997/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6275696c74253230776974682d53656c656e69756d2d79656c6c6f772e737667" width="110" title="hover text">
 </p>
 
 
@@ -32,5 +32,6 @@ python -m pip install -r .\requirements.txt
 ## Usage
 🔹in the command Line run:
 
-`$ python instagram.py
+`$ python bot.py
 `
+
