@@ -26,6 +26,14 @@ An Instagram bot developed using the Selenium Framework
 🔵 Message single user <br>
 🔵 Message multiple users <br>
 
+## Prerequisites
+To be able to run this little bot, you’ll need to have:
+
+🔹 Python
+🔹 Selenium
+🔹 Chromedriver
+🔹 Google Chrome (English version)
+
 ## Package installation for Windows users
 
 To install all needed requirements run the following command in the project directory: <br>
