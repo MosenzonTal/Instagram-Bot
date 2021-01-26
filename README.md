@@ -38,6 +38,7 @@ Open bot.py with any TextEditor.
 Change all needed values such as username and password.
 
 ## Usage
+
 🔹after editing the script, in the command Line run:
 
 `$ python bot.py
