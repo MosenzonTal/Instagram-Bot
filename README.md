@@ -67,3 +67,15 @@ this line designed to authenticate you on Instagram. Basically change your_usern
 `$ python bot.py
 `
 
+-----
+
+
+<p align="center">
+  <b>© 2020 Tal Mosenzon.  All rights reserved.</b>
+</p>
+
+<p align="center">
+<img src="https://www.macworld.co.uk/cmsdata/features/3635912/learn_python_mac_thumb800.jpg" width="200" title="hover text">      
+<img src="https://www.selenium.dev/images/selenium_logo_large.png" width="150" title="hover text"> 
+</p>
+
