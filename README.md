@@ -19,8 +19,17 @@ Tooling that automates your social media interactions to “farm” Likes, Comme
 An Instagram bot developed using the Selenium Framework
 
 ## Features
-🔵 Login
-🔵 Follow user
-🔵 UnFollow user
-🔵 Message single user
-🔵 Message multiple users
+🔵 Login <br>
+🔵 Follow user <br>
+🔵 UnFollow user <br>
+🔵 Message single user <br>
+🔵 Message multiple users <br>
+
+## Package installation for Windows users
+python -m pip install -r .\requirements.txt
+
+## Usage
+🔹in the command Line run:
+
+`$ python instagram.py
+`
