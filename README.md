@@ -29,10 +29,16 @@ An Instagram bot developed using the Selenium Framework
 ## Package installation for Windows users
 
 To install all needed requirements run the following command in the project directory: <br>
+
 `python -m pip install -r .\requirements.txt`
 
+## Edit Script
+Open bot.py with any TextEditor.
+
+Change all needed values such as username and password.
+
 ## Usage
-🔹in the command Line run:
+🔹after editing the script, in the command Line run:
 
 `$ python bot.py
 `
