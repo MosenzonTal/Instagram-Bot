@@ -33,9 +33,8 @@ To install all needed requirements run the following command in the project dire
 `python -m pip install -r .\requirements.txt`
 
 ## Edit Script
-Open bot.py with any TextEditor.
-
-Change all needed values such as username and password.
+🔹 Open bot.py with any TextEditor. <br>
+🔹 Change all needed values such as username and password.
 
 ## Usage
 
